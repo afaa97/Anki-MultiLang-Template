@@ -1,7 +1,8 @@
-# Anki Multi Language Template
+# Anki Multi Language Template (WIP)
 This is a custom vocabulary learning template designed for Anki. This was made to learn 3 languages at the same time in order to maximize productivity and progress.
 
 > Note: This template only works for Windows (for now)
+> THIS IS A WORK IN PROGRESS. NOTHING IS RELEASED.
 
 ## 👓 Preview
 
@@ -16,6 +17,17 @@ However, I'm sick of having to go to the dictionary to look up the meaning of wo
 - **Speech synthesis** - Built-in audio speech
 - **Good looking** - It has to look nice :) The style was inspired by NSBum's Anki Solarized Light theme.
 
+## 📦 Installation
+
+If you want to have exactly the same look as my anki software just follow these steps.
+
+**1.** Download the `MultiLang-Template.apkg` and open it.  
+**2.** Go to Anki preferences and enable "Night Mode" checkbox.  
+**3.** A deck was created. Click on the settings icon > Options and toggle "Don't play audio automatically".  
+**4.** Install [Anki-redesign](https://ankiweb.net/shared/info/308574457) add-on and apply Poppins font in configuration window.
+
 ## 🔗Sources
 Multiple sources were used for inspiration.
 - [Anki Minimal Language Learning Template](https://github.com/chaosarium/anki-minimal-language-learning-template)
+
+#### Tags: `Anki`, `Anki Themes`, `Anki Templates`,
